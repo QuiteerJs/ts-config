@@ -4,6 +4,14 @@
   "description": "ts 预配置",
   "author": "quiteer",
   "license": "ISC",
+  "homepage": "https://github.com/QuiteerJs/ts-config#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuiteerJs/ts-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/QuiteerJs/ts-config/issues"
+  },
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
